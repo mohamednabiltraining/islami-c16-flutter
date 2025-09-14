@@ -15,10 +15,9 @@ class AppImages {
   static const String logo = "assets/images/islami_logo.png";
 
   static const String defaultBackground = "assets/images/background.png";
-  static const String test1 = "assets/images/chaoter_details_background.png";
   static const String chapterDetailsBackground =
       "assets/images/chaoter_details_background.png";
-  static const String test2 = "assets/images/chaoter_details_background.png";
+  static const String hadethItemBackground = "assets/images/hadeth_item_bg.png";
 }
 
 class AppThemes {
