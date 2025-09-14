@@ -15,8 +15,10 @@ class AppImages {
   static const String logo = "assets/images/islami_logo.png";
 
   static const String defaultBackground = "assets/images/background.png";
+  static const String test1 = "assets/images/chaoter_details_background.png";
   static const String chapterDetailsBackground =
       "assets/images/chaoter_details_background.png";
+  static const String test2 = "assets/images/chaoter_details_background.png";
 }
 
 class AppThemes {
@@ -52,6 +54,12 @@ class AppThemes {
       titleSmall: TextStyle(
         color: Colors.white,
         fontSize: 14,
+        fontWeight: FontWeight.bold,
+      ),
+
+      bodySmall: TextStyle(
+        color: Colors.white,
+        fontSize: 12,
         fontWeight: FontWeight.bold,
       ),
     ),
