@@ -17,6 +17,7 @@ class AppImages {
   static const String defaultBackground = "assets/images/background.png";
   static const String chapterDetailsBackground =
       "assets/images/chaoter_details_background.png";
+  static const String hadethItemBackground = "assets/images/hadeth_item_bg.png";
 }
 
 class AppThemes {
