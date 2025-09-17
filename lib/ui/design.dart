@@ -13,6 +13,7 @@ class AppImages {
   static const String ic_chapter = "assets/images/ic_chapter.svg";
 
   static const String logo = "assets/images/islami_logo.png";
+  static const String imageMostRecent = "assets/images/image_most_recent.png";
 
   static const String defaultBackground = "assets/images/background.png";
   static const String chapterDetailsBackground =
